@@ -1,0 +1,61 @@
+body {
+        margin: 0;
+        background-image: url(../images/N1.jpg);
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+        opacity: 0.8;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+.s {
+    text-align: center;
+}
+.s h1 {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-family: serif; 
+}
+.s p {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: serif;  
+}
+.s{
+    text-align: center;
+    text-decoration: none;
+}
+.s {
+    padding: 10px 27px;
+}
+.s img {
+    border-style: double;
+    border-color: bisque;
+    margin: 20px;
+}
+ a {
+    text-decoration: none;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.s {
+    background-size: contain;
+}
+.s ul {
+    display: flex;
+    margin-right: 20px;
+}
+li {
+    list-style:none;
+    color:rgb(255, 255, 255);
+    font-weight: bold; 
+    margin-right:20px;
+    border:1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+    }
+    a {
+        color: white;
+    }

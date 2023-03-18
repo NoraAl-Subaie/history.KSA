@@ -1,0 +1,75 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.c {
+    text-align: center;
+    text-decoration: none;
+}
+.c h1 {
+    color: rgb(100, 100, 100);
+    font-size: 45px;
+    font-family: serif; 
+}
+.c h3 {
+    color: rgb(110, 110, 110);
+    font-size: 25px;
+    font-family: serif;
+    text-align: center;
+}
+.c p {
+    color: rgb(130, 130, 130);
+    font-size: 18px;
+    font-family: serif;  
+    text-align: center;
+}
+.c ol {
+    color: rgb(130, 130, 130);
+    font-size: 18px;
+    font-family: serif; 
+    text-align: right; 
+}
+.c ul {
+    color: rgb(130, 130, 130);
+    font-size: 18px;
+    font-family: serif; 
+    text-align: right; 
+}
+.e ul {
+    padding: 0;
+}
+.e li {
+    list-style:none;
+    color:rgb(130, 130, 130);
+    font-weight: bold; 
+    border:3px solid rgb(130, 130, 130);
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+    text-align: center;
+    }
+    a {
+        color: rgb(130, 130, 130);
+    }
+.c img {
+    border-style: double;
+    border-color: rgb(130, 130, 130);
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+}
+.m {
+    overflow: scroll;
+}
+.m img {
+    border-style: double;
+    border-color: rgb(130, 130, 130);
+    margin: 20px;
+}
+.m p {
+    color: rgb(130, 130, 130);
+    font-size: 18px;
+    font-family: serif;  
+    text-align: center;
+}
